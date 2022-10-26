@@ -33,6 +33,8 @@ ReinforcementLearningZoo = "0.3"
 
 ["0.2-0"]
 Flux = "0.11-0.12"
+
+["0.2-0.4.0"]
 julia = "1.6.0-1"
 
 ["0.3"]
@@ -46,11 +48,17 @@ ReinforcementLearning = "0.8-0.9"
 CUDA = "2-3"
 Distributions = "0.24-0.25"
 FillArrays = "0.11-0.12"
-NNlib = "0.7"
 ProgressBars = "1"
 RollingFunctions = "0.6"
 SimpleWeightedGraphs = "1.1.0-1"
 
+["0.3-0.4.0"]
+NNlib = "0.7"
+
 ["0.4-0"]
 ReinforcementLearning = "0.10"
 Zygote = "0.6.26-0.6"
+
+["0.4.1-0"]
+NNlib = "0.8.4-0.8"
+julia = "1.6-1.7"
